@@ -1,0 +1,21 @@
+html {
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  .accordion {
+    width: 75%;
+    margin: auto;
+  }
+}
+.bg-dark {
+  background-color: #190717 !important;
+}
